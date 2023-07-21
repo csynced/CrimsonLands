@@ -1,4 +1,6 @@
-# CrimsonLands - Changelog - v.0.1.3
+# CrimsonLands - Changelog - v.0.1.4
 
-- Users can now create their own private Server to get the Admin Panel and play around
-- Reworked Hit-Detection system
+- Added Objective models
+- Added Objective captured sounds and animations
+- Added Attacker Spawnhuts
+- Reworked player spawning system
